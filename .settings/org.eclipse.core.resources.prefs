@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/ken/innovation/doctorassis/helper/MedicineImportHelper.java=UTF-8
+encoding//src/ken/innovation/doctorassis/helper/PrescriptionExportHelper.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/DiseaseForm.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/DiseaseTabPanel.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/MainApplicationForm.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/MedicineForm.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/PatientForm.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/PatientTabPanel.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/PrescriptionTabPanel.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/model/DiseaseTableModel.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/model/MedicineTableModel.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/model/PatientTableModel.java=UTF-8
+encoding//src/ken/innovation/doctorassis/ui/model/PrescriptionPreviewModel.java=UTF-8
+encoding//src/ken/innovation/doctorassis/utils/Config.java=UTF-8
+encoding//src/ken/innovation/doctorassis/utils/TextUtils.java=UTF-8
+encoding//src/ken/innovation/doctorassis/utils/UIUtils.java=UTF-8

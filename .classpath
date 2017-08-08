@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/Java/DoctorAsiss/libs/h2-1.4.191.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/Java/DoctorAsiss/libs/json-20160212.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/Java/DoctorAsiss/libs/poi-3.14/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/Java/DoctorAsiss/libs/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/Java/DoctorAsiss/libs/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/Java/DoctorAsiss/libs/poi-3.14/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
